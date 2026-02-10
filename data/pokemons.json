@@ -1,0 +1,3326 @@
+[
+    {
+        "pokedex_id": 1,
+        "generation": 1,
+        "name": {
+            "fr": "Bulbizarre",
+            "en": "Bulbasaur",
+            "jp": "フシギダネ"
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/1/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/1/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 2,
+        "generation": 1,
+        "name": {
+            "fr": "Herbizarre",
+            "en": "Ivysaur",
+            "jp": "フシギソウ"
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/2/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/2/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 3,
+        "generation": 1,
+        "name": {
+            "fr": "Florizarre",
+            "en": "Venusaur",
+            "jp": "フシギバナ"
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/3/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/3/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/3/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/3/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 4,
+        "generation": 1,
+        "name": {
+            "fr": "Salamèche",
+            "en": "Charmander",
+            "jp": "ヒトカゲ "
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/4/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/4/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 5,
+        "generation": 1,
+        "name": {
+            "fr": "Reptincel",
+            "en": "Charmeleon",
+            "jp": "リザード"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/5/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/5/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 6,
+        "generation": 1,
+        "name": {
+            "fr": "Dracaufeu",
+            "en": "Charizard",
+            "jp": "リザードン"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/6/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/6/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/6/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/6/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 7,
+        "generation": 1,
+        "name": {
+            "fr": "Carapuce",
+            "en": "Squirtle",
+            "jp": "ゼニガメ"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/7/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/7/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 8,
+        "generation": 1,
+        "name": {
+            "fr": "Carabaffe",
+            "en": "Wartortle",
+            "jp": "カメール"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/8/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/8/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 9,
+        "generation": 1,
+        "name": {
+            "fr": "Tortank",
+            "en": "Blastoise",
+            "jp": "カメックス"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/9/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/9/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/9/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/9/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 10,
+        "generation": 1,
+        "name": {
+            "fr": "Chenipan",
+            "en": "Caterpie",
+            "jp": "キャタピー"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/10/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/10/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 11,
+        "generation": 1,
+        "name": {
+            "fr": "Chrysacier",
+            "en": "Metapod",
+            "jp": "トランセル"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/11/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/11/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 12,
+        "generation": 1,
+        "name": {
+            "fr": "Papilusion",
+            "en": "Butterfree",
+            "jp": "バタフリー"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/12/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/12/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/12/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/12/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 13,
+        "generation": 1,
+        "name": {
+            "fr": "Aspicot",
+            "en": "Weedle",
+            "jp": "ビードル"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/13/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/13/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 14,
+        "generation": 1,
+        "name": {
+            "fr": "Coconfort",
+            "en": "Kakuna",
+            "jp": "コクーン"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/14/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/14/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 15,
+        "generation": 1,
+        "name": {
+            "fr": "Dardargnan",
+            "en": "Beedrill",
+            "jp": "スピアー"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/15/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/15/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 16,
+        "generation": 1,
+        "name": {
+            "fr": "Roucool",
+            "en": "Pidgey",
+            "jp": "ポッポ "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/16/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/16/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 17,
+        "generation": 1,
+        "name": {
+            "fr": "Roucoups",
+            "en": "Pidgeotto",
+            "jp": "ピジョン"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/17/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/17/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 18,
+        "generation": 1,
+        "name": {
+            "fr": "Roucarnage",
+            "en": "Pidgeot",
+            "jp": "ピジョット"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/18/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/18/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 19,
+        "generation": 1,
+        "name": {
+            "fr": "Rattata",
+            "en": "Rattata",
+            "jp": "コラッタ "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/19/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/19/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 20,
+        "generation": 1,
+        "name": {
+            "fr": "Rattatac",
+            "en": "Raticate",
+            "jp": "ラッタ "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/20/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/20/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 21,
+        "generation": 1,
+        "name": {
+            "fr": "Piafabec",
+            "en": "Spearow",
+            "jp": "オニスズメ "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/21/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/21/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 22,
+        "generation": 1,
+        "name": {
+            "fr": "Rapasdepic",
+            "en": "Fearow",
+            "jp": "オニドリル"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/22/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/22/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 23,
+        "generation": 1,
+        "name": {
+            "fr": "Abo",
+            "en": "Ekans",
+            "jp": "アーボ"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/23/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/23/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 24,
+        "generation": 1,
+        "name": {
+            "fr": "Arbok",
+            "en": "Arbok",
+            "jp": "アーボック"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/24/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/24/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 25,
+        "generation": 1,
+        "name": {
+            "fr": "Pikachu",
+            "en": "Pikachu",
+            "jp": "ピカチュウ"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/25/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/25/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/25/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/25/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 26,
+        "generation": 1,
+        "name": {
+            "fr": "Raichu",
+            "en": "Raichu",
+            "jp": "ライチュウ"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/26/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/26/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 27,
+        "generation": 1,
+        "name": {
+            "fr": "Sabelette",
+            "en": "Sandshrew",
+            "jp": "サンド"
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/27/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/27/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 28,
+        "generation": 1,
+        "name": {
+            "fr": "Sablaireau",
+            "en": "Sandslash",
+            "jp": "サンドパン"
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/28/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/28/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 29,
+        "generation": 1,
+        "name": {
+            "fr": "Nidoran♀",
+            "en": "Nidoran♀",
+            "jp": "ニドラン♀"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/29/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/29/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 30,
+        "generation": 1,
+        "name": {
+            "fr": "Nidorina",
+            "en": "Nidorina",
+            "jp": "ニドリーナ"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/30/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/30/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 31,
+        "generation": 1,
+        "name": {
+            "fr": "Nidoqueen",
+            "en": "Nidoqueen",
+            "jp": "ニドリーナ"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            },
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/31/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/31/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 32,
+        "generation": 1,
+        "name": {
+            "fr": "Nidoran♂",
+            "en": "Nidoran♂",
+            "jp": "ニドラン♂"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/32/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/32/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 33,
+        "generation": 1,
+        "name": {
+            "fr": "Nidorino",
+            "en": "Nidorino",
+            "jp": "ニドリーノ"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/33/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/33/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 34,
+        "generation": 1,
+        "name": {
+            "fr": "Nidoking",
+            "en": "Nidoking",
+            "jp": "ニドキング"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            },
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/34/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/34/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 35,
+        "generation": 1,
+        "name": {
+            "fr": "Mélofée",
+            "en": "Clefairy",
+            "jp": "ピッピ "
+        },
+        "types": [
+            {
+                "name": "Fée",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/fee.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/35/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/35/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 36,
+        "generation": 1,
+        "name": {
+            "fr": "Mélodelfe",
+            "en": "Clefable",
+            "jp": "ピクシー"
+        },
+        "types": [
+            {
+                "name": "Fée",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/fee.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/36/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/36/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 37,
+        "generation": 1,
+        "name": {
+            "fr": "Goupix",
+            "en": "Vulpix",
+            "jp": "ロコン "
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/37/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/37/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 38,
+        "generation": 1,
+        "name": {
+            "fr": "Feunard",
+            "en": "Ninetales",
+            "jp": "キュウコン"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/38/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/38/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 39,
+        "generation": 1,
+        "name": {
+            "fr": "Rondoudou",
+            "en": "Jigglypuff",
+            "jp": "プリン "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Fée",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/fee.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/39/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/39/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 40,
+        "generation": 1,
+        "name": {
+            "fr": "Grodoudou",
+            "en": "Wigglytuff",
+            "jp": "プクリン "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Fée",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/fee.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/40/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/40/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 41,
+        "generation": 1,
+        "name": {
+            "fr": "Nosferapti",
+            "en": "Zubat",
+            "jp": "ズバット"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/41/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/41/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 42,
+        "generation": 1,
+        "name": {
+            "fr": "Nosferalto",
+            "en": "Golbat",
+            "jp": "ゴルバット"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/42/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/42/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 43,
+        "generation": 1,
+        "name": {
+            "fr": "Mystherbe",
+            "en": "Oddish",
+            "jp": "ナゾノクサ "
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/43/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/43/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 44,
+        "generation": 1,
+        "name": {
+            "fr": "Ortide",
+            "en": "Gloom",
+            "jp": "クサイハナ "
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/44/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/44/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 45,
+        "generation": 1,
+        "name": {
+            "fr": "Rafflesia",
+            "en": "Vileplume",
+            "jp": "ラフレシア"
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/45/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/45/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 46,
+        "generation": 1,
+        "name": {
+            "fr": "Paras",
+            "en": "Paras",
+            "jp": "パラス"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/46/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/46/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 47,
+        "generation": 1,
+        "name": {
+            "fr": "Parasect",
+            "en": "Parasect",
+            "jp": "パラセクト"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/47/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/47/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 48,
+        "generation": 1,
+        "name": {
+            "fr": "Mimitoss",
+            "en": "Venonat",
+            "jp": "コンパン"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/48/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/48/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 49,
+        "generation": 1,
+        "name": {
+            "fr": "Aéromite",
+            "en": "Venomoth",
+            "jp": "モルフォン"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/49/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/49/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 50,
+        "generation": 1,
+        "name": {
+            "fr": "Taupiqueur",
+            "en": "Diglett",
+            "jp": "ディグダ"
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/50/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/50/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 51,
+        "generation": 1,
+        "name": {
+            "fr": "Triopikeur",
+            "en": "Dugtrio",
+            "jp": "ダグトリオ"
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/51/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/51/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 52,
+        "generation": 1,
+        "name": {
+            "fr": "Miaouss",
+            "en": "Meowth",
+            "jp": "ニャース"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/52/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/52/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/52/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/52/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 53,
+        "generation": 1,
+        "name": {
+            "fr": "Persian",
+            "en": "Persian",
+            "jp": "ペルシアン"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/53/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/53/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 54,
+        "generation": 1,
+        "name": {
+            "fr": "Psykokwak",
+            "en": "Psyduck",
+            "jp": "コダック"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/54/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/54/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 55,
+        "generation": 1,
+        "name": {
+            "fr": "Akwakwak",
+            "en": "Golduck",
+            "jp": "ゴルダック"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/55/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/55/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 56,
+        "generation": 1,
+        "name": {
+            "fr": "Férosinge",
+            "en": "Mankey",
+            "jp": "マンキー"
+        },
+        "types": [
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/56/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/56/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 57,
+        "generation": 1,
+        "name": {
+            "fr": "Colossinge",
+            "en": "Primeape",
+            "jp": "オコリザル"
+        },
+        "types": [
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/57/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/57/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 58,
+        "generation": 1,
+        "name": {
+            "fr": "Caninos",
+            "en": "Growlithe",
+            "jp": "ガーディ"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/58/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/58/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 59,
+        "generation": 1,
+        "name": {
+            "fr": "Arcanin",
+            "en": "Arcanine",
+            "jp": "ウインディ"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/59/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/59/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 60,
+        "generation": 1,
+        "name": {
+            "fr": "Ptitard",
+            "en": "Poliwag",
+            "jp": "ニョロモ "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/60/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/60/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 61,
+        "generation": 1,
+        "name": {
+            "fr": "Têtarte",
+            "en": "Poliwhirl",
+            "jp": "ニョロゾ "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/61/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/61/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 62,
+        "generation": 1,
+        "name": {
+            "fr": "Tartard",
+            "en": "Poliwrath",
+            "jp": "ニョロボン"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/62/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/62/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 63,
+        "generation": 1,
+        "name": {
+            "fr": "Abra",
+            "en": "Abra",
+            "jp": "ケーシィ"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/63/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/63/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 64,
+        "generation": 1,
+        "name": {
+            "fr": "Kadabra",
+            "en": "Kadabra",
+            "jp": "ユンゲラー"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/64/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/64/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 65,
+        "generation": 1,
+        "name": {
+            "fr": "Alakazam",
+            "en": "Alakazam",
+            "jp": "フーディン"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/65/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/65/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 66,
+        "generation": 1,
+        "name": {
+            "fr": "Machoc",
+            "en": "Machop",
+            "jp": "ワンリキー"
+        },
+        "types": [
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/66/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/66/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 67,
+        "generation": 1,
+        "name": {
+            "fr": "Machopeur",
+            "en": "Machoke",
+            "jp": "ゴーリキー"
+        },
+        "types": [
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/67/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/67/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 68,
+        "generation": 1,
+        "name": {
+            "fr": "Mackogneur",
+            "en": "Machamp",
+            "jp": "カイリキー"
+        },
+        "types": [
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/68/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/68/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/68/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/68/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 69,
+        "generation": 1,
+        "name": {
+            "fr": "Chétiflor",
+            "en": "Bellsprout",
+            "jp": "マダツボミ "
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/69/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/69/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 70,
+        "generation": 1,
+        "name": {
+            "fr": "Boustiflor",
+            "en": "Weepinbell",
+            "jp": "ウツドン "
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/70/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/70/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 71,
+        "generation": 1,
+        "name": {
+            "fr": "Empiflor",
+            "en": "Victreebel",
+            "jp": "ウツボット"
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/71/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/71/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 72,
+        "generation": 1,
+        "name": {
+            "fr": "Tentacool",
+            "en": "Tentacool",
+            "jp": "メノクラゲ "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/72/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/72/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 73,
+        "generation": 1,
+        "name": {
+            "fr": "Tentacruel",
+            "en": "Tentacruel",
+            "jp": "ドククラゲ "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/73/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/73/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 74,
+        "generation": 1,
+        "name": {
+            "fr": "Racaillou",
+            "en": "Geodude",
+            "jp": "イシツブテ"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/74/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/74/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 75,
+        "generation": 1,
+        "name": {
+            "fr": "Gravalanch",
+            "en": "Graveler",
+            "jp": "ゴローン"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/75/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/75/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 76,
+        "generation": 1,
+        "name": {
+            "fr": "Grolem",
+            "en": "Golem",
+            "jp": "ゴローニャ"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/76/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/76/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 77,
+        "generation": 1,
+        "name": {
+            "fr": "Ponyta",
+            "en": "Ponyta",
+            "jp": "ポニータ"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/77/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/77/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 78,
+        "generation": 1,
+        "name": {
+            "fr": "Galopa",
+            "en": "Rapidash",
+            "jp": "ギャロップ"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/78/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/78/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 79,
+        "generation": 1,
+        "name": {
+            "fr": "Ramoloss",
+            "en": "Slowpoke",
+            "jp": "ヤドン "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/79/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/79/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 80,
+        "generation": 1,
+        "name": {
+            "fr": "Flagadoss",
+            "en": "Slowbro",
+            "jp": "ヤドラン "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/80/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/80/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 81,
+        "generation": 1,
+        "name": {
+            "fr": "Magnéti",
+            "en": "Magnemite",
+            "jp": "コイル"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            },
+            {
+                "name": "Acier",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/acier.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/81/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/81/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 82,
+        "generation": 1,
+        "name": {
+            "fr": "Magnéton",
+            "en": "Magneton",
+            "jp": "レアコイル"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            },
+            {
+                "name": "Acier",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/acier.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/82/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/82/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 83,
+        "generation": 1,
+        "name": {
+            "fr": "Canarticho",
+            "en": "Farfetch'd",
+            "jp": "カモネギ "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/83/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/83/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 84,
+        "generation": 1,
+        "name": {
+            "fr": "Doduo",
+            "en": "Doduo",
+            "jp": "ドードー"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/84/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/84/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 85,
+        "generation": 1,
+        "name": {
+            "fr": "Dodrio",
+            "en": "Dodrio",
+            "jp": "ドードリオ"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/85/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/85/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 86,
+        "generation": 1,
+        "name": {
+            "fr": "Otaria",
+            "en": "Seel",
+            "jp": "パウワウ"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/86/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/86/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 87,
+        "generation": 1,
+        "name": {
+            "fr": "Lamantine",
+            "en": "Dewgong",
+            "jp": "ジュゴン "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Glace",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/glace.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/87/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/87/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 88,
+        "generation": 1,
+        "name": {
+            "fr": "Tadmorv",
+            "en": "Grimer",
+            "jp": "ベトベター"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/88/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/88/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 89,
+        "generation": 1,
+        "name": {
+            "fr": "Grotadmorv",
+            "en": "Muk",
+            "jp": "ベトベトン"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/89/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/89/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 90,
+        "generation": 1,
+        "name": {
+            "fr": "Kokiyas",
+            "en": "Shellder",
+            "jp": "シェルダー"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/90/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/90/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 91,
+        "generation": 1,
+        "name": {
+            "fr": "Crustabri",
+            "en": "Cloyster",
+            "jp": "パルシェン"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Glace",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/glace.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/91/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/91/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 92,
+        "generation": 1,
+        "name": {
+            "fr": "Fantominus",
+            "en": "Gastly",
+            "jp": "ゴース"
+        },
+        "types": [
+            {
+                "name": "Spectre",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/spectre.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/92/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/92/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 93,
+        "generation": 1,
+        "name": {
+            "fr": "Spectrum",
+            "en": "Haunter",
+            "jp": "ゴースト"
+        },
+        "types": [
+            {
+                "name": "Spectre",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/spectre.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/93/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/93/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 94,
+        "generation": 1,
+        "name": {
+            "fr": "Ectoplasma",
+            "en": "Gengar",
+            "jp": "ゲンガー"
+        },
+        "types": [
+            {
+                "name": "Spectre",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/spectre.png"
+            },
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/94/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/94/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/94/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/94/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 95,
+        "generation": 1,
+        "name": {
+            "fr": "Onix",
+            "en": "Onix",
+            "jp": "イワーク"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/95/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/95/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 96,
+        "generation": 1,
+        "name": {
+            "fr": "Soporifik",
+            "en": "Drowzee",
+            "jp": "スリープ"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/96/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/96/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 97,
+        "generation": 1,
+        "name": {
+            "fr": "Hypnomade",
+            "en": "Hypno",
+            "jp": "スリーパー"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/97/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/97/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 98,
+        "generation": 1,
+        "name": {
+            "fr": "Krabby",
+            "en": "Krabby",
+            "jp": "クラブ"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/98/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/98/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 99,
+        "generation": 1,
+        "name": {
+            "fr": "Krabboss",
+            "en": "Kingler",
+            "jp": "キングラー"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/99/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/99/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/99/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/99/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 100,
+        "generation": 1,
+        "name": {
+            "fr": "Voltorbe",
+            "en": "Voltorb",
+            "jp": "ビリリダマ "
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/100/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/100/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 101,
+        "generation": 1,
+        "name": {
+            "fr": "Électrode",
+            "en": "Electrode",
+            "jp": "マルマイン"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/101/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/101/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 102,
+        "generation": 1,
+        "name": {
+            "fr": "Noeunoeuf",
+            "en": "Exeggcute",
+            "jp": "タマタマ "
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/102/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/102/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 103,
+        "generation": 1,
+        "name": {
+            "fr": "Noadkoko",
+            "en": "Exeggutor",
+            "jp": "ナッシー"
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            },
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/103/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/103/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 104,
+        "generation": 1,
+        "name": {
+            "fr": "Osselait",
+            "en": "Cubone",
+            "jp": "カラカラ "
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/104/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/104/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 105,
+        "generation": 1,
+        "name": {
+            "fr": "Ossatueur",
+            "en": "Marowak",
+            "jp": "ガラガラ "
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/105/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/105/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 106,
+        "generation": 1,
+        "name": {
+            "fr": "Kicklee",
+            "en": "Hitmonlee",
+            "jp": "サワムラー"
+        },
+        "types": [
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/106/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/106/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 107,
+        "generation": 1,
+        "name": {
+            "fr": "Tygnon",
+            "en": "Hitmonchan",
+            "jp": "エビワラー"
+        },
+        "types": [
+            {
+                "name": "Combat",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/combat.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/107/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/107/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 108,
+        "generation": 1,
+        "name": {
+            "fr": "Excelangue",
+            "en": "Lickitung",
+            "jp": "ベロリンガ "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/108/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/108/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 109,
+        "generation": 1,
+        "name": {
+            "fr": "Smogo",
+            "en": "Koffing",
+            "jp": "ドガース"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/109/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/109/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 110,
+        "generation": 1,
+        "name": {
+            "fr": "Smogogo",
+            "en": "Weezing",
+            "jp": "マタドガス"
+        },
+        "types": [
+            {
+                "name": "Poison",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/poison.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/110/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/110/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 111,
+        "generation": 1,
+        "name": {
+            "fr": "Rhinocorne",
+            "en": "Rhyhorn",
+            "jp": "サイホーン"
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            },
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/111/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/111/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 112,
+        "generation": 1,
+        "name": {
+            "fr": "Rhinoféros",
+            "en": "Rhydon",
+            "jp": "サイドン"
+        },
+        "types": [
+            {
+                "name": "Sol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/sol.png"
+            },
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/112/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/112/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 113,
+        "generation": 1,
+        "name": {
+            "fr": "Leveinard",
+            "en": "Chansey",
+            "jp": "ラッキー"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/113/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/113/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 114,
+        "generation": 1,
+        "name": {
+            "fr": "Saquedeneu",
+            "en": "Tangela",
+            "jp": "モンジャラ "
+        },
+        "types": [
+            {
+                "name": "Plante",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/plante.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/114/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/114/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 115,
+        "generation": 1,
+        "name": {
+            "fr": "Kangourex",
+            "en": "Kangaskhan",
+            "jp": "ガルーラ"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/115/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/115/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 116,
+        "generation": 1,
+        "name": {
+            "fr": "Hypotrempe",
+            "en": "Horsea",
+            "jp": "タッツー"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/116/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/116/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 117,
+        "generation": 1,
+        "name": {
+            "fr": "Hypocéan",
+            "en": "Seadra",
+            "jp": "シードラ"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/117/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/117/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 118,
+        "generation": 1,
+        "name": {
+            "fr": "Poissirène",
+            "en": "Goldeen",
+            "jp": "トサキント "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/118/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/118/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 119,
+        "generation": 1,
+        "name": {
+            "fr": "Poissoroy",
+            "en": "Seaking",
+            "jp": "アズマオウ"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/119/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/119/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 120,
+        "generation": 1,
+        "name": {
+            "fr": "Stari",
+            "en": "Staryu",
+            "jp": "ヒトデマン "
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/120/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/120/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 121,
+        "generation": 1,
+        "name": {
+            "fr": "Staross",
+            "en": "Starmie",
+            "jp": "スターミー"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/121/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/121/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 122,
+        "generation": 1,
+        "name": {
+            "fr": "M. Mime",
+            "en": "Mr. Mime",
+            "jp": "スターミー"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            },
+            {
+                "name": "Fée",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/fee.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/122/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/122/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 123,
+        "generation": 1,
+        "name": {
+            "fr": "Insécateur",
+            "en": "Scyther",
+            "jp": "ストライク"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/123/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/123/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 124,
+        "generation": 1,
+        "name": {
+            "fr": "Lippoutou",
+            "en": "Jynx",
+            "jp": "ルージュラ"
+        },
+        "types": [
+            {
+                "name": "Glace",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/glace.png"
+            },
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/124/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/124/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 125,
+        "generation": 1,
+        "name": {
+            "fr": "Élektek",
+            "en": "Electabuzz",
+            "jp": "エレブー"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/125/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/125/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 126,
+        "generation": 1,
+        "name": {
+            "fr": "Magmar",
+            "en": "Magmar",
+            "jp": "ブーバー"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/126/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/126/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 127,
+        "generation": 1,
+        "name": {
+            "fr": "Scarabrute",
+            "en": "Pinsir",
+            "jp": "カイロス"
+        },
+        "types": [
+            {
+                "name": "Insecte",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/insecte.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/127/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/127/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 128,
+        "generation": 1,
+        "name": {
+            "fr": "Tauros",
+            "en": "Tauros",
+            "jp": "ケンタロス"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/128/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/128/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 129,
+        "generation": 1,
+        "name": {
+            "fr": "Magicarpe",
+            "en": "Magikarp",
+            "jp": "コイキング"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/129/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/129/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 130,
+        "generation": 1,
+        "name": {
+            "fr": "Léviator",
+            "en": "Gyarados",
+            "jp": "ギャラドス"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/130/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/130/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 131,
+        "generation": 1,
+        "name": {
+            "fr": "Lokhlass",
+            "en": "Lapras",
+            "jp": "ラプラス"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            },
+            {
+                "name": "Glace",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/glace.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/131/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/131/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/131/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/131/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 132,
+        "generation": 1,
+        "name": {
+            "fr": "Métamorph",
+            "en": "Ditto",
+            "jp": "メタモン "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/132/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/132/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 133,
+        "generation": 1,
+        "name": {
+            "fr": "Évoli",
+            "en": "Eevee",
+            "jp": "イーブイ"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/133/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/133/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/133/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/133/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 134,
+        "generation": 1,
+        "name": {
+            "fr": "Aquali",
+            "en": "Vaporeon",
+            "jp": "シャワーズ"
+        },
+        "types": [
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/134/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/134/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 135,
+        "generation": 1,
+        "name": {
+            "fr": "Voltali",
+            "en": "Jolteon",
+            "jp": "サンダース"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/135/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/135/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 136,
+        "generation": 1,
+        "name": {
+            "fr": "Pyroli",
+            "en": "Flareon",
+            "jp": "ブースター"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/136/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/136/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 137,
+        "generation": 1,
+        "name": {
+            "fr": "Porygon",
+            "en": "Porygon",
+            "jp": "ポリゴン"
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/137/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/137/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 138,
+        "generation": 1,
+        "name": {
+            "fr": "Amonita",
+            "en": "Omanyte",
+            "jp": "オムナイト"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/138/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/138/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 139,
+        "generation": 1,
+        "name": {
+            "fr": "Amonistar",
+            "en": "Omastar",
+            "jp": "オムスター"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/139/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/139/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 140,
+        "generation": 1,
+        "name": {
+            "fr": "Kabuto",
+            "en": "Kabuto",
+            "jp": "カブト "
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/140/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/140/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 141,
+        "generation": 1,
+        "name": {
+            "fr": "Kabutops",
+            "en": "Kabutops",
+            "jp": "カブトプス"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Eau",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/eau.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/141/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/141/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 142,
+        "generation": 1,
+        "name": {
+            "fr": "Ptéra",
+            "en": "Aerodactyl",
+            "jp": "プテラ"
+        },
+        "types": [
+            {
+                "name": "Roche",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/roche.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/142/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/142/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 143,
+        "generation": 1,
+        "name": {
+            "fr": "Ronflex",
+            "en": "Snorlax",
+            "jp": "カビゴン "
+        },
+        "types": [
+            {
+                "name": "Normal",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/normal.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/143/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/143/shiny.png",
+            "gmax": {
+                "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/143/gmax-regular.png",
+                "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/143/gmax-shiny.png"
+            }
+        }
+    },
+    {
+        "pokedex_id": 144,
+        "generation": 1,
+        "name": {
+            "fr": "Artikodin",
+            "en": "Articuno",
+            "jp": "フリーザー"
+        },
+        "types": [
+            {
+                "name": "Glace",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/glace.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/144/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/144/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 145,
+        "generation": 1,
+        "name": {
+            "fr": "Électhor",
+            "en": "Zapdos",
+            "jp": "サンダー"
+        },
+        "types": [
+            {
+                "name": "Électrik",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/electrik.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/145/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/145/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 146,
+        "generation": 1,
+        "name": {
+            "fr": "Sulfura",
+            "en": "Moltres",
+            "jp": "ファイヤー"
+        },
+        "types": [
+            {
+                "name": "Feu",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/feu.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/146/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/146/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 147,
+        "generation": 1,
+        "name": {
+            "fr": "Minidraco",
+            "en": "Dratini",
+            "jp": "ミニリュウ"
+        },
+        "types": [
+            {
+                "name": "Dragon",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/dragon.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/147/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/147/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 148,
+        "generation": 1,
+        "name": {
+            "fr": "Draco",
+            "en": "Dragonair",
+            "jp": "ハクリュー"
+        },
+        "types": [
+            {
+                "name": "Dragon",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/dragon.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/148/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/148/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 149,
+        "generation": 1,
+        "name": {
+            "fr": "Dracolosse",
+            "en": "Dragonite",
+            "jp": "カイリュー"
+        },
+        "types": [
+            {
+                "name": "Dragon",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/dragon.png"
+            },
+            {
+                "name": "Vol",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/vol.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/149/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/149/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 150,
+        "generation": 1,
+        "name": {
+            "fr": "Mewtwo",
+            "en": "Mewtwo",
+            "jp": "ミュウツー"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/150/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/150/shiny.png",
+            "gmax": null
+        }
+    },
+    {
+        "pokedex_id": 151,
+        "generation": 1,
+        "name": {
+            "fr": "Mew",
+            "en": "Mew",
+            "jp": "ミュウ"
+        },
+        "types": [
+            {
+                "name": "Psy",
+                "image": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/types/psy.png"
+            }
+        ],
+        "sprites": {
+            "regular": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/151/regular.png",
+            "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/151/shiny.png",
+            "gmax": null
+        }
+    }
+]
